@@ -1,0 +1,16 @@
+export const RETOS = [
+  { t: 'El festejo', d: 'Inventá un festejo de gol con baile y gritá GOOOL bien fuerte.' },
+  { t: 'La Copa en la cabeza', d: 'Caminá seis pasos con un almohadón en la cabeza sin que se caiga.' },
+  { t: 'Atajada espectacular', d: 'Hacé como que atajás un penal con un buen estiramiento. Cuidado con los muebles.' },
+  { t: 'El relator', d: 'Relatá durante 15 segundos una jugada inventada, gritando como un relator.' },
+  { t: 'Mímica: tarjeta roja', d: 'Actuá una expulsión sin hablar. Los demás tienen que adivinar.' },
+  { t: 'Estatua campeona', d: 'Quedate quieto 10 segundos con la pose de levantar la Copa del Mundo.' },
+  { t: 'Globo mundialista', d: 'Mantené un globo en el aire con 10 toques, solo con la cabeza o los pies.' },
+  { t: 'Pase de medias', d: 'Embocá un par de medias enrolladas en un cesto, parado a tres pasos.' },
+  { t: 'Conferencia de prensa', d: 'Respondé tres preguntas de los demás como si fueras el capitán campeón.' },
+  { t: 'Mímica de crack', d: 'Imitá a un jugador de la Selección sin hablar. Los demás adivinan quién es.' },
+  { t: 'Cantito de la cancha', d: 'Inventá un cantito corto para la Selección y cantalo con todos.' },
+  { t: 'Foto de equipo', d: 'Armá con los demás una foto de equipo con la pose más seria del mundo.' },
+  { t: 'Gol en cámara lenta', d: 'Hacé un festejo en cámara lenta durante 10 segundos.' },
+  { t: 'Entrada al estadio', d: 'Entrá al living como un jugador que sale a la cancha, saludando a la hinchada.' },
+]
